@@ -10,4 +10,4 @@
 sebass6666/sebass6666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://cdn.glitch.global/99e40528-afe3-4fca-a500-b5d09b5ff26a/pack.sh?v=1705847829127
+
