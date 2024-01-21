@@ -1,5 +1,4 @@
 
-https://cdn.glitch.global/99e40528-afe3-4fca-a500-b5d09b5ff26a/pack.sh?v=1705847829127
 git clone https://org.visualstudio.com/MyFirstProject/_git/MyFirstProject
 Cloning into 'MyFirstProject'...
 14:56:20.412270 ...\Common.cs:677       trace: [Main] git-credential-manager (v1.17.1) 'get'
